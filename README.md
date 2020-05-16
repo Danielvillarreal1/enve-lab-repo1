@@ -11,3 +11,7 @@ esto es la descripcion del por que de este proyecto.
 - otro item
 - otro
 - y otro
+
+### como trabajar con links
+
+esto es un link [enlace pinche aqui](index.html)
